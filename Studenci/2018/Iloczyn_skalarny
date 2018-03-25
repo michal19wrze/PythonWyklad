@@ -1,0 +1,8 @@
+def iloczyns(a,b):
+    x= a[0]*b[0]
+    y=a[1]*b[1]
+    print x+y
+    return
+iloczyns([2,1],[3,4])
+    
+    
